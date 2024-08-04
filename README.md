@@ -11,6 +11,6 @@ Subtract: Subtract each number in a list from a source number.
 
 
 Requirements
-Python 3.7+
-FastAPI
-Uvicorn
+- Python 3.7+
+- FastAPI
+- Uvicorn
